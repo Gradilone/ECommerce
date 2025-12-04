@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|c:\\users\\gradilone\\documents\\backend\\ecommerce.api\\ecommerce.api\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|solutionrelative:ecommerce.api\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|c:\\users\\gradilone\\documents\\backend\\ecommerce.api\\ecommerce.api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|solutionrelative:ecommerce.api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|c:\\users\\gradilone\\documents\\backend\\ecommerce.api\\ecommerce.api\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|solutionrelative:ecommerce.api\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gradilone\\AppData\\Local\\Temp\\fjyynbon..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|c:\\users\\gradilone\\documents\\backend\\ecommerce.api\\ecommerce.api\\models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|solutionrelative:ecommerce.api\\models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|c:\\users\\gradilone\\documents\\backend\\ecommerce.api\\ecommerce.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|solutionrelative:ecommerce.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|c:\\users\\gradilone\\documents\\backend\\ecommerce.api\\ecommerce.api\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|solutionrelative:ecommerce.api\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|c:\\users\\gradilone\\documents\\backend\\ecommerce.api\\ecommerce.api\\repositories\\iusuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|solutionrelative:ecommerce.api\\repositories\\iusuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|c:\\users\\gradilone\\documents\\backend\\ecommerce.api\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|c:\\users\\gradilone\\documents\\backend\\ecommerce.api\\ecommerce.api\\ecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EEC52B7-1385-4F09-89A4-A1D12E593963}|eCommerce.Api\\eCommerce.Api.csproj|solutionrelative:ecommerce.api\\ecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gradilone\\AppData\\Local\\Temp\\fjyynbon..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gradilone\\AppData\\Local\\Temp\\fjyynbon..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\Gradilone\\AppData\\Local\\Temp\\fjyynbon..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\fjyynbon..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-04T06:23:06.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "eCommerce.Api\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "eCommerce.Api\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAMwIAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:34:27.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "eCommerce.Api\\Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Models\\Contato.cs",
+              "RelativeToolTip": "eCommerce.Api\\Models\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:08:13.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "eCommerce.Api\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Models\\Usuario.cs",
+              "RelativeToolTip": "eCommerce.Api\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:28:43.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnderecoEntrega.cs",
+              "DocumentMoniker": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Models\\EnderecoEntrega.cs",
+              "RelativeDocumentMoniker": "eCommerce.Api\\Models\\EnderecoEntrega.cs",
+              "ToolTip": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Models\\EnderecoEntrega.cs",
+              "RelativeToolTip": "eCommerce.Api\\Models\\EnderecoEntrega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:10:16.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "eCommerce.Api\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "eCommerce.Api\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:31:55.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsuariosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Repositories\\IUsuariosRepository.cs",
+              "RelativeDocumentMoniker": "eCommerce.Api\\Repositories\\IUsuariosRepository.cs",
+              "ToolTip": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Repositories\\IUsuariosRepository.cs",
+              "RelativeToolTip": "eCommerce.Api\\Repositories\\IUsuariosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:39:02.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Program.cs",
+              "RelativeDocumentMoniker": "eCommerce.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Program.cs",
+              "RelativeToolTip": "eCommerce.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:21:57.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "eCommerce.Api\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.Api\\eCommerce.Api\\Models\\Departamento.cs",
+              "RelativeToolTip": "eCommerce.Api\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:14:50.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "eCommerce.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.API\\eCommerce.Api\\eCommerce.Api.csproj",
+              "RelativeDocumentMoniker": "eCommerce.Api\\eCommerce.Api.csproj",
+              "ToolTip": "C:\\Users\\Gradilone\\Documents\\Backend\\eCommerce.API\\eCommerce.Api\\eCommerce.Api.csproj",
+              "RelativeToolTip": "eCommerce.Api\\eCommerce.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T23:33:03.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
